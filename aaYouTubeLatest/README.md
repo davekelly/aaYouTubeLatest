@@ -14,6 +14,8 @@ Gets the latest youtube video from your channel (based on your username) and dis
 
 == Changelog ==
 
+0.3 Updated directory structure to allow for easier install & license update
+
 0.2 Updated to use YouTube's iframe embed
 
 0.1 First version released 
